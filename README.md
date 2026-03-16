@@ -1,113 +1,160 @@
 # Hi, I'm Yumi 👋
 
-Game developer, designer, and realtime visualization engineer working across **Unreal Engine 5, Godot, and modern web technologies**.
+Game developer, designer, and realtime visualization engineer working with **Unreal Engine 5, Godot, and modern web technologies**.
 
 I build interactive systems that combine **game development, architectural visualization, and immersive web experiences**.
 
 ---
 
-## What I Do
+## 🧠 What I Do
 
-### Game Development
+### 🎮 Game Development
 
-I develop games using **Unreal Engine 5 and Godot**, focusing on gameplay systems, mechanics, and immersive environments. My work includes designing gameplay loops, enemy systems, survival mechanics, and interactive worlds.
+I develop games using **Unreal Engine 5** and **Godot**, focusing on gameplay systems, mechanics, and interactive environments.
 
-### UI / UX Design
+My work includes:
 
-I design **game interfaces and user experiences in Figma**, creating HUD systems, menus, and interaction flows tailored for games and realtime applications.
+* Gameplay systems and mechanics
+* Survival and wave-based combat systems
+* AI enemy behaviors
+* Interactive worlds and environments
 
-### Architectural Visualization
+---
+
+### 🎨 UI / UX Design
+
+I design **game interfaces and user experiences using Figma**, creating production-ready UI systems for games and realtime applications.
+
+This includes:
+
+* Game HUD systems
+* Menu systems
+* Interaction flows
+* UI prototypes for gameplay systems
+
+---
+
+### 🏢 Architectural Visualization
 
 I create **immersive ArchViz experiences in Unreal Engine** that allow clients to explore buildings before construction.
 
-These projects include:
+These experiences include:
 
 * Interactive apartment walkthroughs
-* Interior and exterior visualization
-* Real-time environment interaction
-* Client presentation experiences
+* Interior visualization
+* Exterior visualization
+* Real-time lighting and environment exploration
 
-Users can freely explore **flats, buildings, and spaces** in a realtime environment to understand how the final structure will look and feel.
-
----
-
-## Pixel Streaming & Web Deployment
-
-I deploy Unreal Engine projects using **Pixel Streaming**, allowing clients to experience ArchViz projects directly in the browser.
-
-This enables:
-
-* Viewing projects on **phone, tablet, or PC**
-* No downloads or executables required
-* Access through a **simple URL**
-
-This makes it easier for developers, architects, and clients to **share immersive experiences instantly**.
+Clients can freely navigate apartments, flats, and buildings to understand how the finished structure will look.
 
 ---
 
-## Projection Mapping
+### 🌐 Pixel Streaming Deployment
 
-I also create **interactive projection mapping experiences** using architectural models and motion interaction.
+I deploy Unreal Engine experiences using **Pixel Streaming**, allowing users to access projects directly from the browser.
 
-These projects involve:
+Benefits include:
 
-* Mapping visuals onto **physical building models**
-* Showing **past vs future building transformations**
-* Interactive control using **Kinect-based motion input**
+* Works on **phone, tablet, or PC**
+* No executable downloads required
+* Instant access through a **URL**
 
-This allows viewers to interact with projected visuals and explore architectural concepts in a dynamic way.
+This makes sharing immersive architectural experiences simple for developers, architects, and clients.
 
 ---
 
-## ArchViz Hosting Platforms
+### 🎥 Projection Mapping
 
-I also develop **web-based platforms to host architectural visualization projects**.
+I also develop **interactive projection mapping installations** for architectural presentations.
 
-These platforms include:
+These systems include:
+
+* Projection mapping onto **physical building models**
+* Visual storytelling of **past vs future architecture**
+* Motion interaction using **Kinect sensors**
+
+Users can interact with projected visuals to explore architectural transformations.
+
+---
+
+### 🧩 ArchViz Hosting Platforms
+
+I build **web platforms that host architectural visualization projects**.
+
+These systems include:
 
 * Admin dashboards for managing projects
 * Project showcase websites
-* Embedded immersive viewing links
-* Pixel Streaming integration
+* Pixel streaming integration
+* Immersive viewing links for client presentations
 
-Clients can use these systems to **present their architectural projects online and provide interactive walkthrough experiences to users.**
-
----
-
-## Tools & Technologies
-
-**Game Engines**
-
-Unreal Engine 5
-Godot
-
-**Design**
-
-Figma
-
-**Web Development**
-
-React
-Next.js
-TypeScript
-Node.js
-
+This allows architectural firms and developers to **publish interactive building experiences online**.
 
 ---
 
-## Projects
+## 🛠 Technologies
 
-* **VastuChitra** — Platform for hosting and deploying Unreal Engine ArchViz projects
-* **Venus** — Marketing platform for architectural visualization presentations
-* **Vintyl** — Async video collaboration system
-* **VeilY** — Multi-platform social media mockup generator
+### Game Engines
+
+* Unreal Engine 5
+* Godot
+
+### Design
+
+* Figma
+
+### Web Development
+
+* React
+* Next.js
+* TypeScript
+* Node.js
+
+### Infrastructure
+
+* Supabase
+* Vercel
+* Vagon
+* Pixel Streaming
+* Cloud deployments
 
 ---
 
-## Focus Areas
+## 🚀 Projects
+
+**VastuChitra**
+Platform for hosting and deploying Unreal Engine **ArchViz experiences**.
+
+**Venus**
+System that transforms **architectural renders into interactive presentations**.
+
+**Vintyl**
+Async **video collaboration platform** for distributed teams.
+
+**VeilY**
+Mockup generator for **15+ social media platforms**.
+
+**IslandSurvival**
+Prototype **survival exploration game**.
+
+**Shooter**
+Wave-based **arcade combat prototype**.
+
+**Vegetaro**
+Roguelike survival **combat system prototype**.
+
+---
+
+## 📈 Contribution Activity
+
+![snake gif](https://raw.githubusercontent.com/YumiNoona/YumiNoona/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎯 Focus
 
 * Realtime 3D applications
-* Interactive architecture experiences
-* Game mechanics and gameplay systems
-* Visualization pipelines
-* Browser-based immersive environments
+* Game systems and mechanics
+* Interactive architectural visualization
+* Browser-based immersive experiences
+* Developer tools for visualization pipelines
