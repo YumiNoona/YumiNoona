@@ -118,39 +118,6 @@ This allows architectural firms and developers to **publish interactive building
 * Pixel Streaming
 * Cloud deployments
 
----
-
-## 🚀 Projects
-
-**VastuChitra**
-Platform for hosting and deploying Unreal Engine **ArchViz experiences**.
-
-**Venus**
-System that transforms **architectural renders into interactive presentations**.
-
-**Vintyl**
-Async **video collaboration platform** for distributed teams.
-
-**VeilY**
-Mockup generator for **15+ social media platforms**.
-
-**IslandSurvival**
-Prototype **survival exploration game**.
-
-**Shooter**
-Wave-based **arcade combat prototype**.
-
-**Vegetaro**
-Roguelike survival **combat system prototype**.
-
----
-
-## 📈 Contribution Activity
-
-![snake gif](https://raw.githubusercontent.com/YumiNoona/YumiNoona/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🎯 Focus
 
 * Realtime 3D applications
